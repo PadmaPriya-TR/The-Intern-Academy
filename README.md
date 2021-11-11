@@ -17,7 +17,6 @@ Have you ever wished to automatically wish your friends on their birthdays, or s
 Task name : Whatsapp Auto wisher
 
 Problem Statement :
-
     Now-a-days we are watching that it has become a trend to message in WhatsApp and wish birthdays, anniversaries or any special occasion. But yesterday was my friend's birthday and I forget to wish him. You need to automate WhatsApp and set the date and time at which the wish of occasion will be automatically sent to the person you want. Create a user interface also with it.
     
 Solution :
